@@ -1,0 +1,2 @@
+E:\Workspace\Learning\SimFusion-3DAnatomyLearningApp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+E:\Workspace\Learning\SimFusion-3DAnatomyLearningApp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
